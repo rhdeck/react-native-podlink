@@ -1,0 +1,19 @@
+{
+  "name": "react-native-podlink",
+  "version": "1.0.0",
+  "description": "Utility to link pods from react-native CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhdeck/react-native-podlink.git"
+  },
+  "author": "Ray Deck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhdeck/react-native-podlink/issues"
+  },
+  "homepage": "https://github.com/rhdeck/react-native-podlink#readme"
+}
